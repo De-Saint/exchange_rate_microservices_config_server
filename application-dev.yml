@@ -1,4 +1,4 @@
-message: This is the file that contains the development properties
+message: This is the file that contains the development properties TODAY
 spring:
   jpa:
     show-sql: true

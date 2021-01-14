@@ -6,4 +6,4 @@ spring:
     console:
       enabled: true
   datasource:
-    url: jdbc:h2:mem:testdb
+    url: jdb1c:h12:mem:testdb

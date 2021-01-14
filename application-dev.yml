@@ -1,9 +1,9 @@
-message: This is the file that contains the development properties TODAY
+message: This is the file that contains the development properties TODAY AGAIN
 spring:
   jpa:
-    show-sql: true
+    show-sql: false
   h2:
     console:
-      enabled: true
+      enabled: false
   datasource:
     url: jdbc:h2:mem:testdb

@@ -1,9 +1,9 @@
 ---
 spring:
   jpa:
-    show-sql: true
+    show-sql: false
   h2:
     console:
-      enabled: true
+      enabled: false
   datasource:
-    url: jdb1c:h12:mem:testdb
+    url: jdbc:h2:mem:testdb
